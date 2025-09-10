@@ -48,16 +48,38 @@ Penjelasan:
 Pulau Bali sekarang sudah muncul di daftar, karena tadi berhasil ditambahkan.
 
 
+[3.]Jika pilih menu 3 (Ubah Nama Pulau)
 
 
+<img width="363" height="243" alt="Screenshot 2025-09-10 093920" src="https://github.com/user-attachments/assets/f2cb2f75-c3ac-4d5e-8406-d0d4a47d736f" />
+
+Penjelasan:User memilih nomor 3 (Kalimantan), lalu mengganti namanya jadi Kalimantan Timur. Data langsung diperbarui.
 
 
+<img width="294" height="143" alt="Screenshot 2025-09-10 094154" src="https://github.com/user-attachments/assets/1f339b56-6f99-4908-928d-83f692e94dc3" />
 
 
+Penjelasan: Pulau Kalimantan sekarang sudah berubah menjadi Kalimantan Timur.
+
+[4.]Jika pilih menu 4 (Hapus Pulau)
 
 
+<img width="338" height="227" alt="Screenshot 2025-09-10 094513" src="https://github.com/user-attachments/assets/49073134-eac5-4886-b78e-aa4695605c54" />
 
 
+Penjelasan:User memilih nomor 1 (Sumatra) otomatis pulau tersebut dihapus dari daftar.
+
+
+<img width="267" height="128" alt="Screenshot 2025-09-10 094715" src="https://github.com/user-attachments/assets/2f9fdd8a-4f2e-4a54-8506-f520cfe1d643" />
+
+penjelasan:Dapat di lihat pulau sumatra berhasil di hapus
+
+[5.]Jika pilih menu 5 (Keluar)
+
+
+<img width="697" height="305" alt="Screenshot 2025-09-10 094907" src="https://github.com/user-attachments/assets/2027ad7b-427b-4e4d-8375-aa1a77ebfa09" />
+
+Penjelasan:Program berhenti berjalan karena user sudah memilih keluar.
 
 
 
