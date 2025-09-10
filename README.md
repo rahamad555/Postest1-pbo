@@ -32,6 +32,34 @@ Program menampilkan semua daftar pulau yang ada di ArrayList. Karena dari awal s
 
 
 
+[2.] Jika pilih menu 1 (Tambah Pulau)
+
+
+<img width="378" height="206" alt="Screenshot 2025-09-10 093411" src="https://github.com/user-attachments/assets/730b9722-348a-474d-9630-61b542bc09d9" />
+
+Penjelasan:
+User menambahkan pulau baru bernama Bali. Data langsung masuk ke daftar.
+
+
+
+<img width="263" height="159" alt="Screenshot 2025-09-10 093554" src="https://github.com/user-attachments/assets/9affddfc-3111-47b6-a5dc-a0ab5442f385" />
+
+Penjelasan:
+Pulau Bali sekarang sudah muncul di daftar, karena tadi berhasil ditambahkan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
