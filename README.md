@@ -11,4 +11,6 @@
 <img width="390" height="167" alt="Screenshot 2025-09-10 092049" src="https://github.com/user-attachments/assets/3f410813-88d5-4629-859b-d361486589b9" />
 
 Jika user menginputkan pilihan angka yang tidak disediakan, maka akan muncul pesan seperti gambar dibawah dan program otomatis akan mengulang dibagian menu utama.
+
+
 <img width="380" height="208" alt="Screenshot 2025-09-10 092350" src="https://github.com/user-attachments/assets/9233078a-280c-43fb-9785-c4a6a1dbc280" />
